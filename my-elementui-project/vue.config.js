@@ -18,9 +18,9 @@ module.exports = defineConfig({
       vue: 'Vue',
       'vue-router': 'VueRouter',
       vuex: 'Vuex',
-      echarts: 'echarts',
-      'element-ui': 'ELEMENT',
-      'vue-quill-editor': 'VueQuillEditor'
+      echarts: 'echarts'
+      // 'element-ui': 'ELEMENT'
+      // 'vue-quill-editor': 'VueQuillEditor'
     }
   }
 })
